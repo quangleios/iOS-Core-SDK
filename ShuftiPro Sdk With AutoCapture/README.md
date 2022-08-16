@@ -47,7 +47,7 @@ See the sample project provided to learn the most common use. Make sure to build
 ```sh
   let configs = [
               ... 
-              "autoCapture" : "true",
+              "autoCapture" : true,
                 
   ]
 ```
