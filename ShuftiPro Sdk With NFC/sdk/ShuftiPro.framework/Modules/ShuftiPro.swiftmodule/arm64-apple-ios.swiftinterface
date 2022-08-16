@@ -8,6 +8,7 @@ import CoreGraphics
 import CoreMotion
 import CoreNFC
 import CoreVideo
+import CryptoKit
 import Foundation
 import MLKit
 import MessageUI
@@ -32,7 +33,6 @@ import _Concurrency
   public var fontColor: UIKit.UIColor
   public var buttonTextColor: UIKit.UIColor
   public var buttonBackgroundColor: UIKit.UIColor
-  public var showNavBar: Swift.Bool
   @objc public func getUniqueReference() -> Swift.String
   @objc public func shuftiProVerification(requestObject dataObjectObj: [Swift.String : Any], authKeys: [Swift.String : Swift.String], parentVC pvc: UIKit.UIViewController, configs: [Swift.String : Any]?, completion: @escaping (_ result: Any) -> ())
   @objc override dynamic public init()

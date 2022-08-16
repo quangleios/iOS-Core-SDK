@@ -37,7 +37,7 @@ Supported architectures in SDK:
 
 
 ## SDK Version:
-Currently our updated SDK version is 3.0.0
+Currently our updated SDK version is 3.1.0
 
 
 ## Integration: 

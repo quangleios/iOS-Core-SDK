@@ -19,7 +19,7 @@ Shufti Pro is a SaaS provider. We provides quick and accurate digital identity a
 * [SDK Version](#sdk-version)
 * [Verifications](#verification)
 * [Integration](#integration)
-* [JSON Object](#json-object-with-ocr)
+* [Request Object](#request-object)
 * [Auth Key Object Parameters ](#auth-key-object-parameters)
 * [Config Object Parameters ](#config-object-parameters)
 * [Customisations ](#customisations)
@@ -49,7 +49,7 @@ Application Info.plist must contain an **Privacy - Camera Usage Description** an
    
  For Swift version 4 & 5
 ```sh
-pod 'ShuftiPro', :tag => '3.0.0', :git => "https://github.com/shuftipro/iOS-binary-pod"
+pod 'ShuftiPro', :tag => '3.1.0', :git => "https://github.com/shuftipro/iOS-binary-pod"
 ```
 
 >### Manuall installation
@@ -58,7 +58,7 @@ pod 'ShuftiPro', :tag => '3.0.0', :git => "https://github.com/shuftipro/iOS-bina
 3.  Add “ShuftiPro.framework” in Embeded Binaries.
 
 ## SDK Version:
-Currently our updated SDK version is 3.0.0
+Currently our updated SDK version is 3.1.0
 
 ## Verification
 In order to get verified, customers will have themselves verified through their mobile phones. They will do it through the merchant's mobile application. Merchant will collect the information and send data to Shufti Pro for verification. The Merchant shall provide the proofs(Images/Videos). Shufti Pro will not collect them directly from the user.
@@ -79,7 +79,7 @@ See the sample project provided to learn the most common use. Make sure to build
 ```sh
 import ShuftiPro
 ```
-## JSON Object With Ocr
+## Request Object
 ```sh
 let requestObject: [String: Any] = [
             "reference": "Unique reference",
@@ -177,105 +177,7 @@ let requestObject: [String: Any] = [
              ]
         ]
 ```
-## JSON Object Without Ocr
-```sh
-let requestObject: [String: Any] = [
-            "reference": "Unique reference",
-            "country": "",
-            "language": "EN",
-            "email": "johndoe@example.com",
-            "callback_url": "http://www.example.com",
-            "phone" : "",
-            "show_results" : "",
-            "show_consent" : "",
-            "show_privacy_policy" : "",
-            "verification_mode": "",
-            "background_checks" : "",
-            "allow_online" : "1",
-            "allow_offline" : "1"
 
-            "face": ["proof": "",
-                     "allow_online" : "1",
-                     "allow_offline" : "1"
-            ],
-
-            "document": [
-                 "proof": "",
-                 "additional_proof" :"",
-
-                 "supported_types": [
-                     "passport",
-                     "id_card",
-                     "driving_license",
-                     "credit_or_debit_card"
-                    ],
-                 "name": [
-                     "first_name": "John",
-                     "last_name": "Carter",
-                     "middle_name": "Doe"
-                ],
-                "backside_proof_required": "0",
-                 "dob": "1992-10-10",
-                 "document_number": "2323-5629-5465-9990",
-                 "expiry_date": "2025-10-10",
-                 "issue_date": "2015-10-10",
-                 "fetch_enhanced_data": "1",
-                 "allow_online" : "1",
-                 "allow_offline" : "1"
-             ],
-
-                "document_two": [
-                 "proof": "",
-                 "additional_proof" :"",
-
-                 "supported_types": [
-                     "passport",
-                     "id_card",
-                     "driving_license",
-                     "credit_or_debit_card"
-                    ],
-                 "name": [
-                     "first_name": "John",
-                     "last_name": "Carter",
-                     "middle_name": "Doe"
-                ],
-                 "backside_proof_required": "0",
-                 "dob": "1992-10-10",
-                 "document_number": "2323-5629-5465-9990",
-                 "expiry_date": "2025-10-10",
-                 "issue_date": "2015-10-10",
-                 "fetch_enhanced_data": "1",
-                 "allow_online" : "1",
-                 "allow_offline" : "1"
-             ],
-             "address": [
-                 "proof": "",
-                 "full_address": "3339 Maryland Avenue, Largo, Florida",
-                 "name": [
-                     "first_name": "John",
-                     "last_name": "Carter",
-                     "middle_name": "Doe",
-                     "fuzzy_match": ""
-                 ],
-                 "supported_types": [
-                     "id_card",
-                     "utility_bill",
-                     "bank_statement"
-                 ],
-                  "allow_online" : "1",
-                  "allow_offline" : "1"
-             ],
-             "consent":[
-               "proof" : "",
-               "text" : "This is a customized text",
-               "supported_types" :[
-                 "printed"
-               ],
-                "allow_online" : "1",
-                "allow_offline" : "1"
-             ]
-        ]
-```
 ## Auth Keys
 Auth keys can be made in two ways. First is by using **clientId** and **secretKey**, other one is by providing **accessToken**.<br>
 You can read more about **accessToken** [here](https://api.shuftipro.com/api/docs/#access-token)
@@ -361,7 +263,7 @@ In this object, we add extra configuration of verification that the user wants.
   If open_webview is true, it means that the user wants verification in **hybrid view**. If false, then the user wants verification with **OCR or Without OCR**. The value is false by default.
 
 # Customisations
-ShuftiPro supports a set of customization options that will influence the appearance of the button, font Color and verification flow modal. You can easily customize the all options by creating ShuftiPro Object. Also you can customize the SDK strings through your own application strings file.
+ShuftiPro supports a set of customization options that will influence the appearance of the button, font Color and verification flow modal. You can easily customize the all options by creating ShuftiPro Object.
 
 Make an instance <br>
 
@@ -371,8 +273,11 @@ let instance = ShuftiPro()
 instance.buttonTextColor = .white
 instance.buttonBackgroundColor = .blue
 instance.fontColor = .black
-                                                  
 ```
+* ## Localization <br>
+  Add your own Localizable.strings file to your project using standard iOS localization mechanism. To change a specific text override corresponding key in [this](https://github.com/shuftipro/iOS-Core-SDK/blob/main/ShuftiPro%20Sdk/Shufti%20Pro%20Demo/en.lproj/Localizable.strings) Localizable.strings file.
+                                                  
+
 # Request Parameters
 
 It is important to note here that each service module is independent of other and each one of them is activated according to the nature of request received from you. There are a total of six services which include face, document, address, consent, phone and background_checks.

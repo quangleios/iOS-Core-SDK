@@ -48,7 +48,7 @@ For more guidance watch this guided image. [here](nfcGuide.png)
 
 
 ## SDK Version:
-Currently our updated SDK version is 3.0.0
+Currently our updated SDK version is 3.1.0
 
 ## Integration: 
 See the sample project provided to learn the most common use. Make sure to build on real device.
