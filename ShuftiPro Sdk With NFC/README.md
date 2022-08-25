@@ -40,7 +40,24 @@ For more guidance watch this guided image. [here](nfcGuide.png)
 ```
     pod 'NFCPassportReader', git:'https://github.com/AndyQ/NFCPassportReader.git'
     pod 'GoogleMLKit/TextRecognition'
+    
 ```
+Please make sure to add the following post-install hook to your Podfile.
+
+```
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if ['NFCPassportReader'].include? target.name
+      target.build_configurations.each do |config|
+          config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
+      end
+    end
+  end
+end
+
+
+```
+
 2. Copy “ShuftiPro.framework” into your project folder.
 3.  In xcode select your project -> your project under TARGETS -> General -> Embeded Binaries
 4.  Add “ShuftiPro.framework” in Embeded Binaries.
@@ -48,7 +65,7 @@ For more guidance watch this guided image. [here](nfcGuide.png)
 
 
 ## SDK Version:
-Currently our updated SDK version is 3.1.0
+Currently our updated SDK version is 3.2.0
 
 ## Integration: 
 See the sample project provided to learn the most common use. Make sure to build on real device.

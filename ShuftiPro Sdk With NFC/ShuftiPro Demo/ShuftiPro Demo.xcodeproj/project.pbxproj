@@ -18,9 +18,9 @@
 		A628E62F267CCC680010F85C /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A628E62B267CCC680010F85C /* OpenSans-ExtraBold.ttf */; };
 		A628E630267CCC680010F85C /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A628E62C267CCC680010F85C /* OpenSans-Bold.ttf */; };
 		A628E631267CCC680010F85C /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A628E62D267CCC680010F85C /* OpenSans-Semibold.ttf */; };
-		B607A7E1289BE5430021B72E /* ShuftiPro.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B607A7DF289BE53F0021B72E /* ShuftiPro.framework */; };
-		B607A7E2289BE5430021B72E /* ShuftiPro.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B607A7DF289BE53F0021B72E /* ShuftiPro.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B607A7E5289BE5580021B72E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B607A7E7289BE5580021B72E /* Localizable.strings */; };
+		B66D224828B748A40026BD0D /* ShuftiPro.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B66D224628B7489E0026BD0D /* ShuftiPro.framework */; };
+		B66D224928B748A40026BD0D /* ShuftiPro.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B66D224628B7489E0026BD0D /* ShuftiPro.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B6A1E2162758F70A002DF2B9 /* BuildFile in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F0F1AD84903220D2DCC2DA41 /* Pods_ShuftiPro_Demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F500D8C6A2C7FBB961A78C9E /* Pods_ShuftiPro_Demo.framework */; };
 /* End PBXBuildFile section */
@@ -33,7 +33,7 @@
 			dstSubfolderSpec = 10;
 			files = (
 				B6A1E2162758F70A002DF2B9 /* BuildFile in Embed Frameworks */,
-				B607A7E2289BE5430021B72E /* ShuftiPro.framework in Embed Frameworks */,
+				B66D224928B748A40026BD0D /* ShuftiPro.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -56,8 +56,8 @@
 		A628E62B267CCC680010F85C /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
 		A628E62C267CCC680010F85C /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
 		A628E62D267CCC680010F85C /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
-		B607A7DF289BE53F0021B72E /* ShuftiPro.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ShuftiPro.framework; sourceTree = "<group>"; };
 		B607A7E6289BE5580021B72E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B66D224628B7489E0026BD0D /* ShuftiPro.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ShuftiPro.framework; sourceTree = "<group>"; };
 		F500D8C6A2C7FBB961A78C9E /* Pods_ShuftiPro_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShuftiPro_Demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F55A9FC0B70D697C9EAE2AE4 /* Pods-ShuftiPro Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShuftiPro Demo.debug.xcconfig"; path = "Target Support Files/Pods-ShuftiPro Demo/Pods-ShuftiPro Demo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,7 +68,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0F1AD84903220D2DCC2DA41 /* Pods_ShuftiPro_Demo.framework in Frameworks */,
-				B607A7E1289BE5430021B72E /* ShuftiPro.framework in Frameworks */,
+				B66D224828B748A40026BD0D /* ShuftiPro.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,7 +87,7 @@
 		9FD7C9B9E7AAD3FF7A7F554A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B607A7DF289BE53F0021B72E /* ShuftiPro.framework */,
+				B66D224628B7489E0026BD0D /* ShuftiPro.framework */,
 				F500D8C6A2C7FBB961A78C9E /* Pods_ShuftiPro_Demo.framework */,
 			);
 			name = Frameworks;

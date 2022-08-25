@@ -421,7 +421,7 @@
 					"$(BUILT_PRODUCT_DIR)/ShuftiPro",
 					"$(BUILT_PRODUCT_DIR)/NFCPassportReader",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shufti.guthub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shufti;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -455,7 +455,7 @@
 					"$(BUILT_PRODUCT_DIR)/ShuftiPro",
 					"$(BUILT_PRODUCT_DIR)/NFCPassportReader",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shufti.guthub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shufti;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
