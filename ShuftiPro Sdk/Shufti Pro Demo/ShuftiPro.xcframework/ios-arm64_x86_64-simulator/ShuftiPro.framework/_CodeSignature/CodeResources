@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		iK2oOYecGDb4eWEs6WiSvc4SanM=
+		B1m+zZfinpFBq/u8J6GfCQK0yxo=
 		</data>
 		<key>FailureVerified.svg</key>
 		<data>
@@ -22,35 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XZp6WnC7w5Q6lwZ4WB8I42PxMkI=
-		</data>
-		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/objects-13.0+.nib</key>
-		<data>
-		uhydlNvhCh5NwUg+WqMHDr34fJ4=
+		AdJcmf6zPqyvus5LQJVK1DqmHPI=
 		</data>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/objects-14.0+.nib</key>
 		<data>
-		uhydlNvhCh5NwUg+WqMHDr34fJ4=
+		U7e+1VZT4WUMEi5b2uL9ND+aXGA=
 		</data>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/runtime.nib</key>
 		<data>
-		uhydlNvhCh5NwUg+WqMHDr34fJ4=
-		</data>
-		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/objects-13.0+.nib</key>
-		<data>
-		fmfffcFyrQcUzW8TZ80eCVpB20w=
+		U7e+1VZT4WUMEi5b2uL9ND+aXGA=
 		</data>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/objects-14.0+.nib</key>
 		<data>
-		fmfffcFyrQcUzW8TZ80eCVpB20w=
+		dt1H+N43zyi6mql57Mf0Rq6y2tE=
 		</data>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/runtime.nib</key>
 		<data>
-		fmfffcFyrQcUzW8TZ80eCVpB20w=
-		</data>
-		<key>Main.storyboardc/CameraVc.nib/objects-13.0+.nib</key>
-		<data>
-		829vEpOWiUF+cmNjQJTpDn2V1xQ=
+		dt1H+N43zyi6mql57Mf0Rq6y2tE=
 		</data>
 		<key>Main.storyboardc/CameraVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -60,10 +48,6 @@
 		<data>
 		829vEpOWiUF+cmNjQJTpDn2V1xQ=
 		</data>
-		<key>Main.storyboardc/CameraVc2.nib/objects-13.0+.nib</key>
-		<data>
-		DCvLAEXXFlMrR1XmvbiNqHe77jY=
-		</data>
 		<key>Main.storyboardc/CameraVc2.nib/objects-14.0+.nib</key>
 		<data>
 		DCvLAEXXFlMrR1XmvbiNqHe77jY=
@@ -71,10 +55,6 @@
 		<key>Main.storyboardc/CameraVc2.nib/runtime.nib</key>
 		<data>
 		DCvLAEXXFlMrR1XmvbiNqHe77jY=
-		</data>
-		<key>Main.storyboardc/ConfirmPhotoVc.nib/objects-13.0+.nib</key>
-		<data>
-		na5Erwffdm158YDAJrsU2irdK2g=
 		</data>
 		<key>Main.storyboardc/ConfirmPhotoVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -84,10 +64,6 @@
 		<data>
 		na5Erwffdm158YDAJrsU2irdK2g=
 		</data>
-		<key>Main.storyboardc/CountrySelectionVc.nib/objects-13.0+.nib</key>
-		<data>
-		AHshCMeFUru7YGYewb7yngQc0p0=
-		</data>
 		<key>Main.storyboardc/CountrySelectionVc.nib/objects-14.0+.nib</key>
 		<data>
 		AHshCMeFUru7YGYewb7yngQc0p0=
@@ -96,25 +72,17 @@
 		<data>
 		AHshCMeFUru7YGYewb7yngQc0p0=
 		</data>
-		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/objects-13.0+.nib</key>
-		<data>
-		+ILbINKLtjLIQzOOSDfzOY98Bfg=
-		</data>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/objects-14.0+.nib</key>
 		<data>
-		+ILbINKLtjLIQzOOSDfzOY98Bfg=
+		/bmeNq+yUiVj/87VDYTtVdFx4eE=
 		</data>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/runtime.nib</key>
 		<data>
-		+ILbINKLtjLIQzOOSDfzOY98Bfg=
+		/bmeNq+yUiVj/87VDYTtVdFx4eE=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
 		uNJQzvD/nXuMFThYVkNr2UjvqBI=
-		</data>
-		<key>Main.storyboardc/InstructionsVc.nib/objects-13.0+.nib</key>
-		<data>
-		5A3dn7UvafPcbRlc3t/lIu+LxH8=
 		</data>
 		<key>Main.storyboardc/InstructionsVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -124,10 +92,6 @@
 		<data>
 		5A3dn7UvafPcbRlc3t/lIu+LxH8=
 		</data>
-		<key>Main.storyboardc/Main.nib/objects-13.0+.nib</key>
-		<data>
-		JA1z8it/ppnqDJIwqbGtUUkYYxw=
-		</data>
 		<key>Main.storyboardc/Main.nib/objects-14.0+.nib</key>
 		<data>
 		JA1z8it/ppnqDJIwqbGtUUkYYxw=
@@ -135,10 +99,6 @@
 		<key>Main.storyboardc/Main.nib/runtime.nib</key>
 		<data>
 		JA1z8it/ppnqDJIwqbGtUUkYYxw=
-		</data>
-		<key>Main.storyboardc/NFCCameraVc.nib/objects-13.0+.nib</key>
-		<data>
-		QdoLud1GZFfoZy3UNW4mgA9SIyc=
 		</data>
 		<key>Main.storyboardc/NFCCameraVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -148,10 +108,6 @@
 		<data>
 		QdoLud1GZFfoZy3UNW4mgA9SIyc=
 		</data>
-		<key>Main.storyboardc/NFCScannerVc.nib/objects-13.0+.nib</key>
-		<data>
-		5lgrpgOUSBxKPHb+O2oZRPn0K/A=
-		</data>
 		<key>Main.storyboardc/NFCScannerVc.nib/objects-14.0+.nib</key>
 		<data>
 		5lgrpgOUSBxKPHb+O2oZRPn0K/A=
@@ -160,33 +116,21 @@
 		<data>
 		5lgrpgOUSBxKPHb+O2oZRPn0K/A=
 		</data>
-		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/objects-13.0+.nib</key>
-		<data>
-		+F6zHWrvsKn7/4R5UK/Ow9YadQo=
-		</data>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/objects-14.0+.nib</key>
 		<data>
-		+F6zHWrvsKn7/4R5UK/Ow9YadQo=
+		hcuNJY5+HLpthKxgzxYgoPXqEvo=
 		</data>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/runtime.nib</key>
 		<data>
-		+F6zHWrvsKn7/4R5UK/Ow9YadQo=
-		</data>
-		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/objects-13.0+.nib</key>
-		<data>
-		+AjNg6WtPdnGprneIk2DIoVfT+M=
+		hcuNJY5+HLpthKxgzxYgoPXqEvo=
 		</data>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/objects-14.0+.nib</key>
 		<data>
-		+AjNg6WtPdnGprneIk2DIoVfT+M=
+		T5e8vfzYIAtokYvbslZFNueSjTg=
 		</data>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/runtime.nib</key>
 		<data>
-		+AjNg6WtPdnGprneIk2DIoVfT+M=
-		</data>
-		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/objects-13.0+.nib</key>
-		<data>
-		+lcDLkXDXO/7dWJNTjMgIWU3cMc=
+		T5e8vfzYIAtokYvbslZFNueSjTg=
 		</data>
 		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -196,10 +140,6 @@
 		<data>
 		+lcDLkXDXO/7dWJNTjMgIWU3cMc=
 		</data>
-		<key>Main.storyboardc/ResultVc.nib/objects-13.0+.nib</key>
-		<data>
-		dc2B7aeys++vYJr/QHRorZbr5BA=
-		</data>
 		<key>Main.storyboardc/ResultVc.nib/objects-14.0+.nib</key>
 		<data>
 		dc2B7aeys++vYJr/QHRorZbr5BA=
@@ -207,10 +147,6 @@
 		<key>Main.storyboardc/ResultVc.nib/runtime.nib</key>
 		<data>
 		dc2B7aeys++vYJr/QHRorZbr5BA=
-		</data>
-		<key>Main.storyboardc/SupportedTypesVc.nib/objects-13.0+.nib</key>
-		<data>
-		tElEQUiakizVc4bsx/DOucaY2pc=
 		</data>
 		<key>Main.storyboardc/SupportedTypesVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -220,21 +156,13 @@
 		<data>
 		tElEQUiakizVc4bsx/DOucaY2pc=
 		</data>
-		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/objects-13.0+.nib</key>
-		<data>
-		6X2bxbP29o6elB0shSuI9l7ReoY=
-		</data>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/objects-14.0+.nib</key>
 		<data>
-		6X2bxbP29o6elB0shSuI9l7ReoY=
+		39gSsaitnPuZUAHsptpXKTTFDEg=
 		</data>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/runtime.nib</key>
 		<data>
-		6X2bxbP29o6elB0shSuI9l7ReoY=
-		</data>
-		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/objects-13.0+.nib</key>
-		<data>
-		oHMUq1Y8DecWFqwbRIo7KAXLPZ0=
+		39gSsaitnPuZUAHsptpXKTTFDEg=
 		</data>
 		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/objects-14.0+.nib</key>
 		<data>
@@ -244,10 +172,6 @@
 		<data>
 		oHMUq1Y8DecWFqwbRIo7KAXLPZ0=
 		</data>
-		<key>Main.storyboardc/UploadVideoVc.nib/objects-13.0+.nib</key>
-		<data>
-		UcVkYG+VtNtFhuQVcoM0GHyTxBo=
-		</data>
 		<key>Main.storyboardc/UploadVideoVc.nib/objects-14.0+.nib</key>
 		<data>
 		UcVkYG+VtNtFhuQVcoM0GHyTxBo=
@@ -255,10 +179,6 @@
 		<key>Main.storyboardc/UploadVideoVc.nib/runtime.nib</key>
 		<data>
 		UcVkYG+VtNtFhuQVcoM0GHyTxBo=
-		</data>
-		<key>Main.storyboardc/WebViewController.nib/objects-13.0+.nib</key>
-		<data>
-		4TdDkXMbbuJON1Rm+M0vVKW3rQ0=
 		</data>
 		<key>Main.storyboardc/WebViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -268,21 +188,13 @@
 		<data>
 		4TdDkXMbbuJON1Rm+M0vVKW3rQ0=
 		</data>
-		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/objects-13.0+.nib</key>
-		<data>
-		67xYB637CGijUFmWsIZn3p0ZVPg=
-		</data>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/objects-14.0+.nib</key>
 		<data>
-		U5bFXxrj7/18V2Id+N9cE1ocb2g=
+		BjiMr/CuHTK+tJDkcQsSVwARNko=
 		</data>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/runtime.nib</key>
 		<data>
-		67xYB637CGijUFmWsIZn3p0ZVPg=
-		</data>
-		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/objects-13.0+.nib</key>
-		<data>
-		r/91Hhni3w43zQo0uuuQ+n7jqlQ=
+		X9gjCbz0VPmPcH5lt95JVzR8Uac=
 		</data>
 		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/objects-14.0+.nib</key>
 		<data>
@@ -290,47 +202,31 @@
 		</data>
 		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/runtime.nib</key>
 		<data>
-		rZnBlCfAKyzgHkV4qt5kepj/ceA=
-		</data>
-		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/objects-13.0+.nib</key>
-		<data>
-		MplvBwPzErvFIWmggKazEj/+LNs=
+		r/91Hhni3w43zQo0uuuQ+n7jqlQ=
 		</data>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/objects-14.0+.nib</key>
 		<data>
-		MplvBwPzErvFIWmggKazEj/+LNs=
+		zlqnE6WP/W/85KGLSClERX8sUFo=
 		</data>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/runtime.nib</key>
 		<data>
-		MplvBwPzErvFIWmggKazEj/+LNs=
-		</data>
-		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/objects-13.0+.nib</key>
-		<data>
-		T4/stNmohS6k8hju9BpKFTXd/h0=
+		zlqnE6WP/W/85KGLSClERX8sUFo=
 		</data>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/objects-14.0+.nib</key>
 		<data>
-		T4/stNmohS6k8hju9BpKFTXd/h0=
+		thdxH905cAdwxp6Yd/zxfB1Xct0=
 		</data>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/runtime.nib</key>
 		<data>
-		T4/stNmohS6k8hju9BpKFTXd/h0=
-		</data>
-		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/objects-13.0+.nib</key>
-		<data>
-		l3yxF1hxi0IbS+JH5HlxIpN5gnQ=
+		thdxH905cAdwxp6Yd/zxfB1Xct0=
 		</data>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/objects-14.0+.nib</key>
 		<data>
-		l3yxF1hxi0IbS+JH5HlxIpN5gnQ=
+		vZ4agf0Ha13cMyRx4Iu5RASK2xU=
 		</data>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/runtime.nib</key>
 		<data>
-		l3yxF1hxi0IbS+JH5HlxIpN5gnQ=
-		</data>
-		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/objects-13.0+.nib</key>
-		<data>
-		xeWlOR2nUIE8iDUlJUqT93pTDes=
+		vZ4agf0Ha13cMyRx4Iu5RASK2xU=
 		</data>
 		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/objects-14.0+.nib</key>
 		<data>
@@ -340,41 +236,37 @@
 		<data>
 		xeWlOR2nUIE8iDUlJUqT93pTDes=
 		</data>
-		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/objects-13.0+.nib</key>
-		<data>
-		RstFo0GH4SVh0Ci68GGAkXcoREg=
-		</data>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/objects-14.0+.nib</key>
 		<data>
-		RstFo0GH4SVh0Ci68GGAkXcoREg=
+		njIxC1krUkT3zTdB2pVV04i/Y4w=
 		</data>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/runtime.nib</key>
 		<data>
-		RstFo0GH4SVh0Ci68GGAkXcoREg=
+		njIxC1krUkT3zTdB2pVV04i/Y4w=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		aSVVafRJyva7N/OEzgRzV0OJepw=
+		BnxEdeXDUih78NpNI+ACai4BGDM=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rfqJlySSG+FvXcPEAAOMUOvUffw=
+		vi6dH5CXL0z+FVqSVfeKXPJNbSs=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XSkapQQhKW52eWaDAqhultz9kDI=
+		k0YeQ8J6YV4CndET2alhdeTdsKQ=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1KJTsz6donIj2UqWX81RZ69LGL4=
+		O6Bttjt+2ACJbDk1DW+6Mx7E/SM=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aT2tvijfUTAKZrvgf0jT6tsXng4=
+		OuQwlwurY6NcdV7fKdI3pt5Hw80=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		X/2J14kSDKaO23zSQfIA162+HVo=
+		KN5cj4lHkB5t+RStpbMCFarcchE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -488,7 +380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kHR7qHceX7gU1pWth02hooXeAM8csDyfD/I2IKfCJBo=
+			TRh4rearEVDHY8+GMfGV9rzXLhFP0AeJZdzmzuXN7/E=
 			</data>
 		</dict>
 		<key>FailureVerified.svg</key>
@@ -512,53 +404,32 @@
 			14jPrGiEQ84hJepO3m68+zZb5t9VROawsRf3n2k7zQ8=
 			</data>
 		</dict>
-		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F/AWTvhsES/dR/pKfvuAdOxGGce9H9zpSGJE6+7hrgk=
-			</data>
-		</dict>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F/AWTvhsES/dR/pKfvuAdOxGGce9H9zpSGJE6+7hrgk=
+			NXq5jJXAM5Ckp3RUVvq8kSvuydjytcY3PtvP44kQ7co=
 			</data>
 		</dict>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F/AWTvhsES/dR/pKfvuAdOxGGce9H9zpSGJE6+7hrgk=
-			</data>
-		</dict>
-		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FjbC2sKLG/Qxp+bDXB6qSupm70XfUMRgeQidS7ovqSw=
+			NXq5jJXAM5Ckp3RUVvq8kSvuydjytcY3PtvP44kQ7co=
 			</data>
 		</dict>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjbC2sKLG/Qxp+bDXB6qSupm70XfUMRgeQidS7ovqSw=
+			9zD8tBQjFB+c+NJN0eW9P/e7cMvrtILAsxqfayeCs3A=
 			</data>
 		</dict>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjbC2sKLG/Qxp+bDXB6qSupm70XfUMRgeQidS7ovqSw=
-			</data>
-		</dict>
-		<key>Main.storyboardc/CameraVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OXP/u1kInlejMxfCtSOXrWMd1PujFQiY7P7yjr9fcTE=
+			9zD8tBQjFB+c+NJN0eW9P/e7cMvrtILAsxqfayeCs3A=
 			</data>
 		</dict>
 		<key>Main.storyboardc/CameraVc.nib/objects-14.0+.nib</key>
@@ -575,13 +446,6 @@
 			OXP/u1kInlejMxfCtSOXrWMd1PujFQiY7P7yjr9fcTE=
 			</data>
 		</dict>
-		<key>Main.storyboardc/CameraVc2.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7yzaJUEupWuCDTnCwH+LAYggAt27GNhIqPHk6+RfM2s=
-			</data>
-		</dict>
 		<key>Main.storyboardc/CameraVc2.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -594,13 +458,6 @@
 			<key>hash2</key>
 			<data>
 			7yzaJUEupWuCDTnCwH+LAYggAt27GNhIqPHk6+RfM2s=
-			</data>
-		</dict>
-		<key>Main.storyboardc/ConfirmPhotoVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SmAhcrLcDgcA8+YK6i3Bty19skg9ElfL8J3WfG0NkjY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/ConfirmPhotoVc.nib/objects-14.0+.nib</key>
@@ -617,13 +474,6 @@
 			SmAhcrLcDgcA8+YK6i3Bty19skg9ElfL8J3WfG0NkjY=
 			</data>
 		</dict>
-		<key>Main.storyboardc/CountrySelectionVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iwKNfpVGLb4UqagGUBOmt3HKm1kOkXvSI4zJjXAs1i4=
-			</data>
-		</dict>
 		<key>Main.storyboardc/CountrySelectionVc.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -638,25 +488,18 @@
 			iwKNfpVGLb4UqagGUBOmt3HKm1kOkXvSI4zJjXAs1i4=
 			</data>
 		</dict>
-		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IJUG+ysrX7ExBMQe8uhfi3RGGcKcLU2B8movdTbuu3c=
-			</data>
-		</dict>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJUG+ysrX7ExBMQe8uhfi3RGGcKcLU2B8movdTbuu3c=
+			VY8FljsiMmgDuFHcNcKOi0Ii7Xh/FlxjpEO5nlRAF/I=
 			</data>
 		</dict>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJUG+ysrX7ExBMQe8uhfi3RGGcKcLU2B8movdTbuu3c=
+			VY8FljsiMmgDuFHcNcKOi0Ii7Xh/FlxjpEO5nlRAF/I=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -664,13 +507,6 @@
 			<key>hash2</key>
 			<data>
 			V+geRjjmD0uNVkYBESaIizimo/o5KnvhrdOiNyDUJao=
-			</data>
-		</dict>
-		<key>Main.storyboardc/InstructionsVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y4dkuI74HqHe3dDjOW2VgzaCsY9lFvIISFa8qTBLEFk=
 			</data>
 		</dict>
 		<key>Main.storyboardc/InstructionsVc.nib/objects-14.0+.nib</key>
@@ -687,13 +523,6 @@
 			Y4dkuI74HqHe3dDjOW2VgzaCsY9lFvIISFa8qTBLEFk=
 			</data>
 		</dict>
-		<key>Main.storyboardc/Main.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Obdyd0XblUyNfDhcUQTu7XpIj5wIaon0VYwcM+SFuWc=
-			</data>
-		</dict>
 		<key>Main.storyboardc/Main.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -706,13 +535,6 @@
 			<key>hash2</key>
 			<data>
 			Obdyd0XblUyNfDhcUQTu7XpIj5wIaon0VYwcM+SFuWc=
-			</data>
-		</dict>
-		<key>Main.storyboardc/NFCCameraVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cAssqACcMxQ+EFxdBbNSd5jDSuRZtWFY352PNcJ1P/E=
 			</data>
 		</dict>
 		<key>Main.storyboardc/NFCCameraVc.nib/objects-14.0+.nib</key>
@@ -729,13 +551,6 @@
 			cAssqACcMxQ+EFxdBbNSd5jDSuRZtWFY352PNcJ1P/E=
 			</data>
 		</dict>
-		<key>Main.storyboardc/NFCScannerVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oLxNb2rSrezdmu7gk/Ea4iyAC5daipGHNedQbSa15XE=
-			</data>
-		</dict>
 		<key>Main.storyboardc/NFCScannerVc.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -750,53 +565,32 @@
 			oLxNb2rSrezdmu7gk/Ea4iyAC5daipGHNedQbSa15XE=
 			</data>
 		</dict>
-		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4FstkzJMEAVHIQVBKGLl/EcCXN9de3zG1t4R4pC8O3A=
-			</data>
-		</dict>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FstkzJMEAVHIQVBKGLl/EcCXN9de3zG1t4R4pC8O3A=
+			eB1BGwoAs/8IvIYxaOw+m062nKaC1LHoC9c9grpUbj0=
 			</data>
 		</dict>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FstkzJMEAVHIQVBKGLl/EcCXN9de3zG1t4R4pC8O3A=
-			</data>
-		</dict>
-		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tr6aRcLz/L114lO6d/fuUtEWyBzjmZBgm/7ezfjkH74=
+			eB1BGwoAs/8IvIYxaOw+m062nKaC1LHoC9c9grpUbj0=
 			</data>
 		</dict>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tr6aRcLz/L114lO6d/fuUtEWyBzjmZBgm/7ezfjkH74=
+			MqHtPGiVh5ci0OIN4law9qCxVWfI15XfW2lcJIhJXqs=
 			</data>
 		</dict>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tr6aRcLz/L114lO6d/fuUtEWyBzjmZBgm/7ezfjkH74=
-			</data>
-		</dict>
-		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qutF104OSI7XVqvcz6vj1f4mE/h8hGqpDHOVWOiJ3IE=
+			MqHtPGiVh5ci0OIN4law9qCxVWfI15XfW2lcJIhJXqs=
 			</data>
 		</dict>
 		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/objects-14.0+.nib</key>
@@ -813,13 +607,6 @@
 			qutF104OSI7XVqvcz6vj1f4mE/h8hGqpDHOVWOiJ3IE=
 			</data>
 		</dict>
-		<key>Main.storyboardc/ResultVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jdg5oamr+JAs5OYKIjkItQw15zWgogt5ihtAt1ckGsw=
-			</data>
-		</dict>
 		<key>Main.storyboardc/ResultVc.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -832,13 +619,6 @@
 			<key>hash2</key>
 			<data>
 			Jdg5oamr+JAs5OYKIjkItQw15zWgogt5ihtAt1ckGsw=
-			</data>
-		</dict>
-		<key>Main.storyboardc/SupportedTypesVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lpwaYAPWLAPjYe81YU6AYh0aj4RbFJvwguETmwDrKwU=
 			</data>
 		</dict>
 		<key>Main.storyboardc/SupportedTypesVc.nib/objects-14.0+.nib</key>
@@ -855,32 +635,18 @@
 			lpwaYAPWLAPjYe81YU6AYh0aj4RbFJvwguETmwDrKwU=
 			</data>
 		</dict>
-		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UIJi/2Uznoc/096ywPUHnxRoVc9P6/A0PSWlCQULJV4=
-			</data>
-		</dict>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIJi/2Uznoc/096ywPUHnxRoVc9P6/A0PSWlCQULJV4=
+			Kvnso7Oh7BwavQmg47yiPDtZzvyDKJX04g+MuMNvN3U=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIJi/2Uznoc/096ywPUHnxRoVc9P6/A0PSWlCQULJV4=
-			</data>
-		</dict>
-		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tS0vuYEtnSeBL5thnMA1o+OlxAnIsQpafnMP0NFDYiM=
+			Kvnso7Oh7BwavQmg47yiPDtZzvyDKJX04g+MuMNvN3U=
 			</data>
 		</dict>
 		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/objects-14.0+.nib</key>
@@ -897,13 +663,6 @@
 			tS0vuYEtnSeBL5thnMA1o+OlxAnIsQpafnMP0NFDYiM=
 			</data>
 		</dict>
-		<key>Main.storyboardc/UploadVideoVc.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oeDHVrQW6pMTbs2yOp5uM60O9VqclqBlsrCF+tV0OVw=
-			</data>
-		</dict>
 		<key>Main.storyboardc/UploadVideoVc.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -916,13 +675,6 @@
 			<key>hash2</key>
 			<data>
 			oeDHVrQW6pMTbs2yOp5uM60O9VqclqBlsrCF+tV0OVw=
-			</data>
-		</dict>
-		<key>Main.storyboardc/WebViewController.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DgkWWr1NQXDnYWmdtJifQRZ5wJaqiuxx0wEwpinHZF4=
 			</data>
 		</dict>
 		<key>Main.storyboardc/WebViewController.nib/objects-14.0+.nib</key>
@@ -939,32 +691,18 @@
 			DgkWWr1NQXDnYWmdtJifQRZ5wJaqiuxx0wEwpinHZF4=
 			</data>
 		</dict>
-		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mbqgEPFaUhdTisjfrbE0iMMF+XqY5PxpU6HaWzJSI2g=
-			</data>
-		</dict>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3zknHGpd+9/5B9sJxM3gxJkVibSWTMafqD14PLpHfRA=
+			cQXOy3GGk7cBtvv6quRcBPJaJpxlyE/HVAcUcf7NNe0=
 			</data>
 		</dict>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mbqgEPFaUhdTisjfrbE0iMMF+XqY5PxpU6HaWzJSI2g=
-			</data>
-		</dict>
-		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GfLCY4Fmqh8f2WAA7XSoNPbutGZn4RLVvYyEeRHRv/Y=
+			buz50K1sitPqEwQ75WTIMuNzGa2Jn0HYTTMOv+fq7Jo=
 			</data>
 		</dict>
 		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/objects-14.0+.nib</key>
@@ -978,77 +716,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wjhPaOQL4uc90fSF8zKNujKEF+zOD4Kqt1lWzDi55yA=
-			</data>
-		</dict>
-		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m02xi5Gl9vuNLHvtvEiwwJx1Lxegjld1GQ7qjXIoZNQ=
+			GfLCY4Fmqh8f2WAA7XSoNPbutGZn4RLVvYyEeRHRv/Y=
 			</data>
 		</dict>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m02xi5Gl9vuNLHvtvEiwwJx1Lxegjld1GQ7qjXIoZNQ=
+			/qRLGKwZhcQ0oseMNhscQGHiLQ2ewLn5PY1ZMEVUxh0=
 			</data>
 		</dict>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m02xi5Gl9vuNLHvtvEiwwJx1Lxegjld1GQ7qjXIoZNQ=
-			</data>
-		</dict>
-		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QgW8aTPlXNdz2NVGouYDug6SDQ5S1lgdxVZAX/4PTgI=
+			/qRLGKwZhcQ0oseMNhscQGHiLQ2ewLn5PY1ZMEVUxh0=
 			</data>
 		</dict>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QgW8aTPlXNdz2NVGouYDug6SDQ5S1lgdxVZAX/4PTgI=
+			D4S+u8dxyj2p7SWQp+fN2IAzxCnBAz8TeBRxxM2nSqM=
 			</data>
 		</dict>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QgW8aTPlXNdz2NVGouYDug6SDQ5S1lgdxVZAX/4PTgI=
-			</data>
-		</dict>
-		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3OMucMcXH2IbxDFrwsqTqqcsBCmObc2eQJcoLp7CnOI=
+			D4S+u8dxyj2p7SWQp+fN2IAzxCnBAz8TeBRxxM2nSqM=
 			</data>
 		</dict>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3OMucMcXH2IbxDFrwsqTqqcsBCmObc2eQJcoLp7CnOI=
+			y6PX/ET7aYf+Un7RGZIv+znsCBDPlbW5u2Q3n1aWkfI=
 			</data>
 		</dict>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3OMucMcXH2IbxDFrwsqTqqcsBCmObc2eQJcoLp7CnOI=
-			</data>
-		</dict>
-		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xi9Z9eQngDNS9ymDgkXyoF6TYWtvXiMf2LPo66ucJMc=
+			y6PX/ET7aYf+Un7RGZIv+znsCBDPlbW5u2Q3n1aWkfI=
 			</data>
 		</dict>
 		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/objects-14.0+.nib</key>
@@ -1065,67 +775,60 @@
 			xi9Z9eQngDNS9ymDgkXyoF6TYWtvXiMf2LPo66ucJMc=
 			</data>
 		</dict>
-		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rmXleL+DjwZVRwZmNx/rqKqlGBs1J4iodrG0nDx2ZbQ=
-			</data>
-		</dict>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmXleL+DjwZVRwZmNx/rqKqlGBs1J4iodrG0nDx2ZbQ=
+			Mkvvl4sML7lv11pJShxv24vQm/upbvR7QEtE0PwKsgE=
 			</data>
 		</dict>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmXleL+DjwZVRwZmNx/rqKqlGBs1J4iodrG0nDx2ZbQ=
+			Mkvvl4sML7lv11pJShxv24vQm/upbvR7QEtE0PwKsgE=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M8QKo8Y9DqX1if13L3SWJpq8liPWU2o+C9WwbPfQayI=
+			wuwzX5Y2qsQbUXqgNB4SJWbe5xLYqjkouVu40IkMt5s=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			epD9QEQUHr3NRia529k46nqx3/9bY3SsbOJHFLAOaUc=
+			4EROOh9qRcseUO2mLFVCtdOVD4MI41I9WEvgznAsZhE=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/IXqoiMhEzHRhH4fnCVbfil6tYOXWgr/BnrGkdG+cso=
+			wawn8Ovevv9bFIwjup2xRSeFnk5OXLcOh4MXq/Se94U=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IBN0bqHkBPxN2/nasVRoUrZS2lRBUdNKShcf3GCZsLU=
+			7RISNenIA/SdNCrJ9b4de2bHwikOFn6yfBFjM1DBaDw=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JK+pPfYFnXEFnehQ7L9lX9laPfGBdAo43n+24+4qBeg=
+			6a666DWM84LqNzmxAIpnxEH2TrgfY3+rF50P+1wb/vo=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			15ZlT4wjcoidgWs+BI5TRq6+U/eV6kqK7UHDWHbIJOU=
+			qIICBJYHWnCUrQIhB6k3wn+f1eNLS8SYbBN4NpjpwrQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
