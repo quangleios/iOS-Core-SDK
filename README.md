@@ -1,16 +1,9 @@
 [![](https://raw.githubusercontent.com/shuftipro/RESTful-API-v1.2/master/assets/banner.jpg)](https://www.shuftipro.com/)
 
-# What Is This?
-Shufti Pro is a SaaS provider. We provides quick and accurate digital identity and document verification. E-KYC using government-issued documents like ID card, passport, driving license and even credit/debit cards, etc. has never been easier. Shufti Pro allows for simple and easy ID checks online, securing the virtual trading platforms and FinTech institutions against scams, frauds and money launderers.
+# What is Shufti Pro?
+Shufti Pro, UK-based Software as a Service (SaaS) provider is a pioneer in offering real-time identity verification services across 230+ countries and territories, helping businesses to comply with KYC, KYB and AML regulations. The solution also helps companies to determine and overcome the fraud risk with its fully automated ID verification services including document authentication, face verification, consent verification, facial biometric recognition, phone verification, anti-money laundering screening and 2-factor authentication.
 
-<p float="center">
-  <img src="images/01.png" width="250" />
-  <img src="images/02.png" width="250" /> 
-  <img src="images/03.png" width="250" />
-  <img src="images/04.png" width="250" />
-  <img src="images/05.png" width="250" /> 
-  <img src="images/06.png" width="250" />
-</p>
+A user-friendly interface with an easy API integration procedure enables businesses to onboard legit customers seamlessly and helps to develop trustworthy B2B relationships. Shufti Pro’s ID verification services are fit for all industries including FinTechs, Virtual asset service providers, banks and much more. Choosing Shufti Pro can fight crimes, increase productivity, and enhance conversion rate, everything in just less than a second.
 
 ## Table of contents
 * [General Requirements](#general-requirements)
@@ -273,6 +266,13 @@ let instance = ShuftiPro()
 instance.buttonTextColor = .white
 instance.buttonBackgroundColor = .blue
 instance.fontColor = .black
+```
+
+To apply and use dark theme/mode in SDK, initialise the SDK with provided parameter in config object.
+```sh
+  let configs = [
+                "dark_mode" : true,
+  ]
 ```
 * ## Localization <br>
   Add your own Localizable.strings file to your project using standard iOS localization mechanism. To change a specific text override corresponding key in [this](https://github.com/shuftipro/iOS-Core-SDK/blob/main/ShuftiPro%20Sdk/Shufti%20Pro%20Demo/en.lproj/Localizable.strings) Localizable.strings file.
