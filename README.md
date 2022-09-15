@@ -10,14 +10,13 @@ A user-friendly interface with an easy API integration procedure enables busines
 * [Permissions](#permissions)
 * [SDK Installation Guide](#sdk-installation-guide)
 * [SDK Version](#sdk-version)
-* [Verifications](#verification)
+* [Verification Types You Can Get](#verification-types-you-can-get)
 * [Integration](#integration)
-* [Request Object](#request-object)
+* [Initiate Request](#initiate-request)
 * [Auth Key Object Parameters ](#auth-key-object-parameters)
 * [Config Object Parameters ](#config-object-parameters)
+* [Request Object Parameters](#request-object-parameters)
 * [Customisations ](#customisations)
-* [Sample Request](#sample-request)
-* [JSON Object Parameters](#request-parameters)
 * [HTTP Codes](#http-codes)
 * [Status Response](#status-response)
 * [Test IDs](#test-ids)
@@ -53,19 +52,14 @@ pod 'ShuftiPro', :tag => '3.3.0', :git => "https://github.com/shuftipro/iOS-bina
 ## SDK Version:
 Currently our updated SDK version is 3.3.0
 
-## Verification
-In order to get verified, customers will have themselves verified through their mobile phones. They will do it through the merchant's mobile application. Merchant will collect the information and send data to Shufti Pro for verification. The Merchant shall provide the proofs(Images/Videos). Shufti Pro will not collect them directly from the user.
+## Verification Types You Can Get:
+Shufti Pro’s services come in three variations. You have an option of choosing all or any one of them that fulfills your client's requirements. Following are the types of verification services;
 
-* ### With OCR
-In verification with OCR, it means that the merchant has not provided us proofs (images/videos) and also no data in some or all datapoints (Name, DOB etc.). In this verification Shufti Pro will perform extraction of data from those proofs and finally verify the data.
+**With OCR:** Verification services API embedded with OCR technology can extract personally identifiable information from user’s ID documents and authenticate them as a part of a single identity verification process.
 
-* ### Without OCR
-In verification without OCR, merchant gives us the data in all datapoints (Name, DOB etc.) but the proofs are provide by the user then Shufti Pro just have to verify the data. No direct customer interaction takes place in this kind of verification.
+**Without OCR:** In case you are choosing this service, your clients need to provide additional proof of data in the form of identity documents other than verification information.
 
-* ### Verification through Hybrid view
-If you opt for mobile verification with Shufti Pro’s hybrid view, a web-view built upon HTML 5 will be displayed to the end-user. All data points and fields are adequately defined in the hybrid view. The format for sending verification data will be a JSON object, similar to other mobile verification formats (OCR and Non-OCR). If your send true in [openWebView](#openwebview) parameter then verification through hybrid view will be started else verification with OCR or without OCR (based upon JSON object) will be triggered.
-
-For more details on technical requirements for Verification with Rest API, kindly visit Shufti Pro’s resource page here.  
+**Verification Through Hybrid View:** Shufti Pro’s hybrid view includes mobile verifications along with a web view built on HTML 5 that will show the results to the end-user. The verification data will be sent through a JSON object, quite similar to OCR/Non-OCR in the mobile authentication formats. In case the value for OpenViewParameter is set to true, the hybrid view will be enabled, else the other models will be triggered.
 
 ## Integration: 
 See the sample project provided to learn the most common use. Make sure to build on real device.
@@ -80,12 +74,10 @@ let requestObject: [String: Any] = [
             "language": "EN",
             "email": "johndoe@example.com",
             "callback_url": "http://www.example.com",
-            "phone" : "",
             "show_results" : "",
             "show_consent" : "",
             "show_privacy_policy" : "",
             "verification_mode": "",
-            "background_checks" : "",
             "allow_online" : "1",
             "allow_offline" : "1"
 
@@ -198,7 +190,7 @@ You can read more about **accessToken** [here](https://api.shuftipro.com/api/doc
   ]
 ```
 
-## Sample Request
+## Initiate Request
 Make an instance <br>
 
 ```sh
@@ -255,30 +247,8 @@ In this object, we add extra configuration of verification that the user wants.
   This boolean type of parameter is used to identify if you want to perform verification in its hybrid view.
   If open_webview is true, it means that the user wants verification in **hybrid view**. If false, then the user wants verification with **OCR or Without OCR**. The value is false by default.
 
-# Customisations
-ShuftiPro supports a set of customization options that will influence the appearance of the button, font Color and verification flow modal. You can easily customize the all options by creating ShuftiPro Object.
-
-Make an instance <br>
-
-```sh
-let instance = ShuftiPro()
-
-instance.buttonTextColor = .white
-instance.buttonBackgroundColor = .blue
-instance.fontColor = .black
-```
-
-To apply and use dark theme/mode in SDK, initialise the SDK with provided parameter in config object.
-```sh
-  let configs = [
-                "dark_mode" : true,
-  ]
-```
-* ## Localization <br>
-  Add your own Localizable.strings file to your project using standard iOS localization mechanism. To change a specific text override corresponding key in [this](https://github.com/shuftipro/iOS-Core-SDK/blob/main/ShuftiPro%20Sdk/Shufti%20Pro%20Demo/en.lproj/Localizable.strings) Localizable.strings file.
                                                   
-
-# Request Parameters
+# Request Object Parameters
 
 It is important to note here that each service module is independent of other and each one of them is activated according to the nature of request received from you. There are a total of six services which include face, document, address, consent, phone and background_checks.
 
@@ -330,7 +300,7 @@ All verification services are optional. You can provide Shufti Pro a single serv
 
 * ## verification_mode
 
-  Required: **No**  
+  Required: **Yes**  
   Type: **string**  
   Accepted Values: **image_only, video_only ,any**
 
@@ -751,6 +721,28 @@ For Details on additional_data object go to [Additional Data](https://api.shufti
   Provide a valid date. Please note that the date should be before today. 
   Example 1990-12-31
 
+# Customisations
+ShuftiPro supports a set of customization options that will influence the appearance of the button, font Color and verification flow modal. You can easily customize the all options by creating ShuftiPro Object.
+
+Make an instance <br>
+
+```sh
+let instance = ShuftiPro()
+
+instance.buttonTextColor = .white
+instance.buttonBackgroundColor = .blue
+instance.fontColor = .black
+```
+
+To apply and use dark theme/mode in SDK, initialise the SDK with provided parameter in config object.
+```sh
+  let configs = [
+                "dark_mode" : true,
+  ]
+```
+* ## Localization <br>
+  Add your own Localizable.strings file to your project using standard iOS localization mechanism. To change a specific text override corresponding key in [this](https://github.com/shuftipro/iOS-Core-SDK/blob/main/ShuftiPro%20Sdk/Shufti%20Pro%20Demo/en.lproj/Localizable.strings) Localizable.strings file.
+
  
 
 ## HTTP Codes
@@ -847,6 +839,3 @@ If you have any questions/queries regarding implementation SDK please feel free 
 
 ## Copyright
 2017- 22 © Shufti Pro Ltd.
-
-
-
